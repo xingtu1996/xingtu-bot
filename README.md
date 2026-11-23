@@ -31,6 +31,18 @@ Grok Bot 把「一队带名字、带电脑、定时干活的 Bot」做成了付�
 - **案例卡**：每个公开项目一张卡，写清作者、协议、安装形态、成本结构、核对日期。
 - **取舍笔记**：一个设计为什么这样选、代价是什么、什么场景下不成立。
 
+
+## 归属与导航
+
+本仓属于[行途 XingTu 开源矩阵](https://github.com/xingtu1996)的案例集分区，主题独立维护；[名片仓](https://github.com/xingtu1996)只做索引，不复制本仓内容。
+
+案例集分四仓，按边界分工、互相引用：
+
+- [xingtu-testting](https://github.com/xingtu1996/xingtu-testting) · AI 测试
+- [xingtu-bot](https://github.com/xingtu1996/xingtu-bot) · Bot 形态
+- [xingtu-agent](https://github.com/xingtu1996/xingtu-agent) · Agent 落地
+- [xingtu-bci](https://github.com/xingtu1996/xingtu-bci) · 协作坏例
+
 ## 快速开始
 
 ```bash

@@ -31,6 +31,17 @@ Grok Bot turned "a team of named Bots with their own computers that work on sche
 - **Case cards**: one card per public project, with author, license, install form, cost structure, and check date.
 - **Trade-off notes**: why a design was chosen, its cost, and when it stops holding.
 
+## Home and Navigation
+
+This repo belongs to the case-study section of the [XingTu open-source matrix](https://github.com/xingtu1996) and is maintained independently. The [profile repo](https://github.com/xingtu1996) only indexes; it does not duplicate this repo's content.
+
+The four case repos divide by boundary and cross-reference each other:
+
+- [xingtu-testting](https://github.com/xingtu1996/xingtu-testting) - AI testing
+- [xingtu-bot](https://github.com/xingtu1996/xingtu-bot) - Bot form factors
+- [xingtu-agent](https://github.com/xingtu1996/xingtu-agent) - Agent deployment
+- [xingtu-bci](https://github.com/xingtu1996/xingtu-bci) - Collaboration bad cases
+
 ## Quick start
 
 ```bash
